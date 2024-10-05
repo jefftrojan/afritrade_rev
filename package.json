@@ -1,0 +1,34 @@
+{
+  "type": "module",
+  "name": "afritrade",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "framer-motion": "^11.9.0",
+    "groq-sdk": "^0.7.0",
+    "next": "14.2.13",
+    "openai": "^4.65.0",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
